@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Wanderer</string>
+    <string-array name="from_locations">
+        <item>India (IND)</item>
+        <item>United States of America (USA)</item>
+        <item>Canada (CAN)</item>
+        <item>Germany (DEU)</item>
+        <item>Japan (JPN)</item>
+        <item>France (FRA)</item>
+        <item>Italy (ITA)</item>
+        <item>Singapore (SGP)</item>
+    </string-array>
+    <string-array name="to_locations">
+        <item>India (IND)</item>
+        <item>United States of America (USA)</item>
+        <item>Canada (CAN)</item>
+        <item>Germany (DEU)</item>
+        <item>Japan (JPN)</item>
+        <item>France (FRA)</item>
+        <item>Italy (ITA)</item>
+        <item>Singapore (SGP)</item>
+    </string-array>
+
+</resources>
+
+

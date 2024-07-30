@@ -1,0 +1,14 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">#03DAC5</item>
+        <item name="colorPrimaryDark">#03DAC5</item>
+        <item name="colorAccent">#03DAC5</item>
+    </style>
+
+    <!-- Toolbar style -->
+    <style name="MyToolbar" parent="Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="android:background">#03DAC5</item>
+    </style>
+</resources>

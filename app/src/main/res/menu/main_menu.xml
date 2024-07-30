@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_book_itinerary"
+        android:title="Book Itinerary"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/menu_view_history"
+        android:title="View Bookings"
+        android:icon="@android:drawable/ic_menu_view"
+        android:showAsAction="ifRoom|withText" />
+</menu>

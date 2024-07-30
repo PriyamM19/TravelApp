@@ -1,0 +1,12 @@
+<resources>
+    <color name="colorPrimary">#03DAC5</color>
+    <color name="colorPrimaryDark">#03DAC5</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="backgroundColor">#F6F6F6</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#757575</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="cardShadow">#E0E0E0</color>
+    <color name="buttonColor">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+</resources>
